@@ -1,0 +1,11 @@
+
+.Button{
+    background-color: rgb(5, 9, 236);
+    color: white;
+    padding: 10px 20px;
+    margin: 50px;
+    border-color: rgb(1, 1, 2);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
